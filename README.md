@@ -5,9 +5,10 @@ This repository contains my full implementation for :
 
 Both parts include training code, evaluation scripts, model outputs, and analysis.
 
-# Environment Setup
-
 It is recommended to use Python **3.10+**.
+```
+python -m pip install -r requirements.txt
+```
 
 Debug training on a tiny dataset
 ```
